@@ -10,3 +10,6 @@ Compile and run:
 g++ -std=c++17 -O2 a_watermelon.cpp -o a_watermelon
 echo 8 | ./a_watermelon
 ```
+
+Categories:
+brute force, math

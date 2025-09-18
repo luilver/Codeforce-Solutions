@@ -2,3 +2,6 @@
 
 Files:
 - `way_too_long_words.rb`
+
+Categories:
+strings
