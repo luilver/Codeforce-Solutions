@@ -9,7 +9,7 @@ def lowest_denominations(n)
     next if n < e
     next if @result < n / e
 
-    @result = [@result, 1 + lowest_denominations(n - e)].min
+    @result = [@result, n / e + lowest_denominations(n % e)].min
   end
 
   @result
