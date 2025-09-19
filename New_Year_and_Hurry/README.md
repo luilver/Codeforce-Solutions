@@ -43,5 +43,7 @@ In the third sample, Limak needs only 1 minute to get to the party. He has enoug
 
 ## Categories
 
-- 
-
+- binary search
+- brute force
+- implementation
+- math
